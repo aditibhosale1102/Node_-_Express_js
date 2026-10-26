@@ -1,0 +1,16 @@
+{
+  "name": "node-js-2026",
+  "version": "1.0.0",
+  "description": "node js and express js ",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
